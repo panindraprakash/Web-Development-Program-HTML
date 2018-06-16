@@ -68,26 +68,26 @@ example <p> This is a paragraph</p>
 
 C) HTML ELEMENTS 
 
-                    1) (i)  Start tag 
-                       (ii) End   tag
-                                        example    <p> My First Paragraph </p>
+                1) (i)  Start tag 
+                   (ii) End   tag
+                                  example    <p> My First Paragraph </p>
 
-                    2) Nested HTML Elements
-                                                 Html elements can be nested.
-                                                 All html documents consist of nested html elements.
-                                                 Example          </DOCTYPE html>
-                                                                  <html>
-                                                                          <body>
-                                                                                  <h1> My first heading <h2>
-                                                                                  <p> My first paragraph <p>
-                                                                           </body>
-                                                                   </html>
+                2) Nested HTML Elements
+                                        Html elements can be nested.
+                                        All html documents consist of nested html elements.
+                                        Example     </DOCTYPE html>
+                                                    <html>
+                                                             <body>
+                                                                    <h1> My first heading <h2>
+                                                                    <p> My first paragraph <p>
+                                                             </body>
+                                                     </html>
 
                     3) Empty html elements
-                                             Html elements with no content are called empty elements. 
-                                             <br> is an empty element without a closing tag
-                                             Html does not  required empty elements to be closed.
-                                             But if you want stricter validation or if you need to make your 
-                                             document readable by xml parsens you must close all html elements properly.
+                                           Html elements with no content are called empty elements. 
+                                           <br> is an empty element without a closing tag
+                                           Html does not  required empty elements to be closed.
+                                           But if you want stricter validation or if you need to make your 
+                                           document readable by xml parsens you must close all html elements properly.
 
 
