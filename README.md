@@ -91,3 +91,66 @@ C) HTML ELEMENTS
                                            document readable by xml parsens you must close all html elements properly.
 
 
+D) HTNL ATTRIBUTES
+
+              All html elements can have attributes.
+              Attributes provide additional informat about an element.
+              Attributes are always specified in the start tag.
+
+ List of attributes
+
+ 1) href
+          Used is html link tag.
+          The links destination is specified in href attributes.
+          Example
+                   <a href "https://mychoultry.com">This is a link</a>
+
+2) src
+        Used in html image tag
+        The filename of the image source is specified in the src attribute.
+        Example
+                <img src="img_grass.jpg">
+
+3) width and height
+                     Used in html imag tag.
+                     Images in html have a set of size attributes which specifies the width and height of the image
+                     Example
+                             <img src="img_grass.jpg" width="500" height="600">
+
+4) alt
+       Used in html imag tag.
+       The value of the attribute can be read by screen readers
+       This way someone listening to the webpage eg:a blind person can"hear" the element.
+       Example
+               <img src="img_grass.jpj" alt="grass need's water">
+       Note The "alt" attribute is also useful if the imag does not exist.
+
+5) style
+         Used in html paragtaphs and html heading elements
+         The style attribute is used to specify the styling of an elements like color,font,size etc.
+         Example
+                  <p style="color:red">I am a paragraph</p>
+
+6) The lang attribute
+                      used in the html tag.
+                      The language of the document can be decleared in the <html>tag.
+                      Example
+                              <!DOCTYPE html>
+                              <html lang-"en_us">
+                              <head>      </head>
+                              <body>      </body>
+                              </html>
+
+7) title 
+          Used in the html paragraphs,html heading elements and in img element.
+          The value of the title attribute will be displayed as a tooltip when you mouse over the paragraph.
+          Example
+                  <p title="I'm a tooltip">
+                  this is a paragraph.
+                  </p>
+
+
+
+
+
+
